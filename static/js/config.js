@@ -1,5 +1,5 @@
 // API key
-var API_KEY = "";.
+var API_KEY = "";
 
 var attribution = `
   Map data & copy;
